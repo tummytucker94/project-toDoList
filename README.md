@@ -1,5 +1,5 @@
 # project-toDoList
-Jermaine Tucker 03/21/2020   To-Do List Project 3   
+Jermaine Tucker 03/23/2020   To-Do List Project 3   
 
 Purpose: To practice using Text elements.  
 
