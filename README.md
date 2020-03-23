@@ -7,7 +7,7 @@ Who: Jermaine Tucker
 
 What: Completed the blog post coding project that dealt with coding his blog post in HTML.   
 
-When: Monday March 21th, 2020 9:08pm    
+When: Monday March 23th, 2020 9:08pm    
 
 Where: At Home    
 
